@@ -5,7 +5,6 @@
 
 ## INDEX
 - [Description](#Description)
-- [Installation](#Installation)
 - [How To Run](#How_To_Run)
 - [Screenshots](#Screenshots)
 
@@ -39,3 +38,20 @@
 - On the bottom you can also visit several links to the `Sparks Foundation` website.
 
 ## Screenshots
+- Main Body
+![main body](https://user-images.githubusercontent.com/99381315/230708947-11d5a1a2-4aa2-4dd8-ac3e-51e5d80e5879.png)
+
+- About us
+![About us](https://user-images.githubusercontent.com/99381315/230708971-8ae93693-952e-404d-9d13-3f35d6c7ea3a.png)
+
+- Footer with links to TSF
+![Footer](https://user-images.githubusercontent.com/99381315/230708987-e9253b85-255a-47d2-b267-6c3a95e5adc9.png)
+
+- Payment Process  
+![Pay1](https://user-images.githubusercontent.com/99381315/230709013-dbb9109d-59b7-423a-9580-1e96e64fbee1.png)
+![Pay 2](https://user-images.githubusercontent.com/99381315/230709008-26ebb39a-125a-4c7b-8aa7-ca670aec4203.png)
+![Pay 3](https://user-images.githubusercontent.com/99381315/230709009-29f0660a-24d2-4ea7-bd4d-e9253a957218.png)
+![Pay 4](https://user-images.githubusercontent.com/99381315/230709011-5ead4bc9-a3d0-41b5-97b0-1ad08c9632fd.png)
+
+- Invoice on email
+![On email](https://user-images.githubusercontent.com/99381315/230709043-00717142-3600-4941-977f-d4aaf9a0b6ed.png)
