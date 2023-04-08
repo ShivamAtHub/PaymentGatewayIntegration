@@ -1,7 +1,6 @@
 # Payment Gateaway Integration
 # Created by- Shivam Darekar © 2023
-## SC'c--> LinkedIn: @shivamdarekar2206
-##         GitHub: @ShivamAtHub
+## SC'c--> LinkedIn: @shivamdarekar2206 | GitHub: @ShivamAtHub
 
 
 ## INDEX
